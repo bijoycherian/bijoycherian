@@ -10,7 +10,7 @@ Previously: @bookingcom @JustEatTakeaway @Expedia @Ticketmaster @easyjet | Alum 
 
 - 🔭 Building AI agents, agentic workflows and multi-agent orchestration.
 
-- 🧠 Exploring MCP apps, memory, context tiers and context selection.
+- 🧠 Exploring MCP apps, memory, context selection and eval-driven hill-climbing.
 
 ## Let’s connect
 
