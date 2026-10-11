@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Bijoy 👋
 
-<!--
-**bijoycherian/bijoycherian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI products and marketplaces.
 
-Here are some ideas to get you started:
+Previously: @bookingcom @JustEatTakeaway @Expedia @Ticketmaster @easyjet | Alum @UCBerkeley @UniofNottingham
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+- 🛠️ Turning product management tasks into reusable agent skills—from research to specs agents can execute.
+
+- 🔭 Building AI agents, agentic workflows and multi-agent orchestration.
+
+- 🧠 Exploring MCP apps, memory, context tiers and context selection.
+
+## Let’s connect
+
+👯 Open to collaborating on AI products and AI-native marketplaces.
